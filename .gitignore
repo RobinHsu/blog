@@ -57,3 +57,11 @@ typings/
 # dotenv environment variables file
 .env
 
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+runtime/
+dist/
+static/
